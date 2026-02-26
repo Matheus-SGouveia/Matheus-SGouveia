@@ -24,16 +24,16 @@ Hi there 👋, I'm Matheus
 
 ## 🛠️ Ferramentas / Tools
 
-- VS Code  
-- Git & GitHub  
-- Azure Portal  
-- Windows & Linux OS  
-- ISO corporativa e Servidor WDS  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure Portal](https://img.shields.io/badge/Azure%20Portal-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📫 Contato / Contact
+## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/matheussgouveia/)  
-- [GitHub](https://github.com/Matheus-SGouveia)  
-- Email: matheussg58@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussgouveia/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matheus-SGouveia)
