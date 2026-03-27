@@ -1,10 +1,19 @@
 # Olá 👋, sou Matheus
 Hi there 👋, I'm Matheus
+💻 Analista de Sistemas | Sustentação de Sistemas
 
-💻 Analista de Sistemas | Systems Analyst - Support & Infrastructure  
-🌱 Estudando Cloud e Infraestrutura com Terraform | Learning Cloud & Infrastructure with Terraform  
-🛠️ Experiência prática com Python, PowerShell, Windows, Windows Server, Linux, SQL, ServiceNow, montagem de ISOs corporativas, Servidor WDS | Hands-on with Python, PowerShell, Windows, Windows Server, Linux, SQL, ServiceNow, corporate ISO builds, WDS Server  
-🚀 Focado em resolver problemas complexos e entregar resultados eficientes | Focused on solving complex problems and delivering results
+🚀 Focado em automação, análise de dados e resolução de problemas operacionais na raiz
+
+🧠 Experiência prática em criação de soluções que reduzem esforço manual, organizam dados e melhoram a tomada de decisão
+
+🛠️ Tecnologias: Python, PowerShell, SQL, Windows/Linux, Windows Server, ServiceNow, WDS
+
+📊 Desenvolvimento de automações para processamento de dados (ex: XML fiscal → estrutura organizada + base para análise)
+
+☁️ Estudando Cloud e Infraestrutura com Terraform (Azure/AWS)
+
+🎯 Buscando evoluir para Engenharia de Dados / Cloud, construindo soluções escaláveis e orientadas a dados
+
 
 ---
 
